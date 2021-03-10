@@ -3,4 +3,4 @@ Il problema dice che: una bilancia a due piatti che deve pesare 13 oggetti di pe
 
 Risolvilo vocalmente cliccando questo link:
 
-<a href="https://github.com/elenal3/repo2/blob/main/cart1/gml.html"> Operatore vocale </a>
+<a href="https://github.com/elenal3/repo2/tree/main/cart1/gml.html"> Operatore vocale </a>
