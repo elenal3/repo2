@@ -3,4 +3,4 @@ Il problema dice che: una bilancia a due piatti che deve pesare 13 oggetti di pe
 
 Risolvilo vocalmente cliccando questo link:
 
-<a href="cart1/gml.html"> Operatore vocale </a>
+<a href="cart1/gml.html"target="_blank">Operatore vocale</a>
